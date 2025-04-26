@@ -21,6 +21,7 @@ OpenCode is a Go-based CLI application that brings AI assistance to your termina
 - **External Editor Support**: Open your preferred editor for composing messages
 
 ## Installation
+##struct
 
 ### Using the Install Script
 
